@@ -16,7 +16,7 @@ Dataset Information:
 - Note: The dataset is not included in this repository due to file size and licensing.
         It can be downloaded directly from the Kaggle link above.
   
-Work Completed So Far
+Work Completed So Far:
 
 - Imported all required Python libraries.  
 - Loaded the credit card transaction dataset and displayed its basic structure.  
@@ -35,7 +35,7 @@ Work Completed So Far
 - Performed a train-test split (80-20) with class stratification to preserve class balance in both sets.  
 - Checked class distribution in the training dataset.
 
-Libraries and Tools Used  
+Libraries and Tools Used:  
 
 - Python  
 - Pandas  
@@ -45,7 +45,7 @@ Libraries and Tools Used
 - Scikit-learn  
 
 
-Status Update  
+Status Update:  
 
  Exploratory Data Analysis and data preprocessing are completed.  
  The next phase will include class imbalance handling, model building, evaluation, and model saving.
