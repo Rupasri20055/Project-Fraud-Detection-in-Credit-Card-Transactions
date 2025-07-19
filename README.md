@@ -63,25 +63,26 @@ This project uses machine learning techniques to detect fraudulent credit card t
 streamlit run app.py
 ```
 
-Tools & Libraries Used
+## Tools & Libraries Used
 
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
-XGBoost
-imbalanced-learn (SMOTE)
-Joblib (for saving model)
-Streamlit (optional)
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- XGBoost  
+- imbalanced-learn (SMOTE)  
+- Joblib (for saving model)  
+- Streamlit (optional)
 
-Extra Highlights
+## Extra Highlights
 
-Clean, insightful data visualizations
-Balanced training set using SMOTE
-High-performance model using XGBoost
-Deployable web app via Streamlit
-Saved model for reuse
+- Clean, insightful data visualizations  
+- Balanced training set using SMOTE  
+- High-performance model using XGBoost  
+- Deployable web app via Streamlit  
+- Saved model for reuse
 
-Author
-Name: Rupa Sri Rudroju
+## Author
+
+Name: Rupa Sri Rudroju  
 Project Type: Internship Showcase
