@@ -82,6 +82,11 @@ streamlit run app.py
 -Deployable web app via Streamlit
 -Saved model for reuse
 
+###  Dataset Download  
+Due to file size limits on GitHub, the dataset is not included in this repository.  
+Please download it manually from [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and upload `creditcard.csv` into your working directory before running the notebook.
+
+
 ##Author
 Name: Rupa Sri Rudroju
 Project Type: Internship Showcase
